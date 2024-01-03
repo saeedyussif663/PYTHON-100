@@ -9,3 +9,7 @@
 ### DAY-2:
 
 #### A tip calculator using the math opearations and type coversions in python
+
+### DAY-3:
+
+#### A treassure island game using conditional statements and the lower() on strings
