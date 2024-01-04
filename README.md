@@ -13,3 +13,7 @@
 ### DAY-3:
 
 #### A treassure island game using conditional statements and the lower() on strings
+
+### DAY-4:
+
+#### A rock, paper, scissors game using the random module and contrl flow.
