@@ -17,3 +17,11 @@
 ### DAY-4:
 
 #### A rock, paper, scissors game using the random module and contrl flow.
+
+### DAY-5:
+
+#### A password genrator. using loops
+
+### DAY-6:
+
+#### A Reborg'w world maize excape using functions and loop
