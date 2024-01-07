@@ -25,3 +25,7 @@
 ### DAY-6:
 
 #### A Reborg'w world maize excape using functions and loop
+
+### DAY-7:
+
+#### Hangman
