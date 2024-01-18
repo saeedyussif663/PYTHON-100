@@ -3,5 +3,3 @@ class Question:
         self.text = text
         self.answer = answer
 
-
-question_1 = Question("2+3==5", "true")
